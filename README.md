@@ -6,3 +6,4 @@ Pattern Recognition Final Project
   -3.Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss 
   : https://github.com/marcelsan/Deep-HdrReconstruction   
   -4.Deep High Dynamic Range Imaging of Dynamic Scenes: https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/   
+  -5.FHDR: HDR Image Reconstruction from a Single LDR Image using Feedback Network: https://github.com/mukulkhanna/fhdr
